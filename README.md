@@ -89,6 +89,8 @@ while True:
 video.release()
 cv2.destroyAllWindows()
 ````
+![Captura de tela 2024-07-01 191807](https://github.com/JFcamp/Reconhecimento-facial/assets/149902237/4cdced54-bf56-4817-9ad3-2b3c58ba8cec)
+
 ## Este projeto demonstra como usar a biblioteca OpenCV e o módulo de detecção de rostos do cvzone para realizar a detecção de rostos em tempo real a partir de uma webcam.(porem com desfoque de rosto
 
 
