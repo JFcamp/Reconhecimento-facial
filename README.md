@@ -146,3 +146,4 @@ while True:
 video.release()
 cv2.destroyAllWindows()
 ````
+![Captura de tela 2024-07-01 191440](https://github.com/JFcamp/Reconhecimento-facial/assets/149902237/9496a4fa-eecb-4f2c-a3dd-0c83ebecd7e0)
