@@ -1,7 +1,7 @@
 # Reconhecimento de Emoções em Tempo Real
 
 ## Este projeto demonstra como usar a biblioteca DeepFace para detectar e reconhecer emoções em tempo real a partir de uma webcam.
-
+A ideia aqui e demostrar uma tecnologia e suas versoes e exemplos de como podemos utilizar e desfrutar de seus recursos 
 ## Funcionalidades
 
 - Detecta rostos em tempo real usando OpenCV.
